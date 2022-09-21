@@ -24,7 +24,7 @@ public class SumOfIntegerAddsToZERO {
 		{
 			for(int j=i+1; j<number; j++)
 			{
-				for(int k=j+1; j<number; k++)
+				for(int k=j+1; k<number; k++)
 				{
 					if(arr[i] +arr[j]+arr[k] == 0)
 					{
